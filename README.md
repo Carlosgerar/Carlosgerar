@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Carlos Cosme</h1>
-<h3 align="center">Y soy un apasionado desarrollador Full-stack de México</h3>
+<h3 align="center">Y soy un apasionado desarrollador back-end</h3>
 
 <p align="center">
   <img src="https://github.com/Carlosgerar/Carlosgerar/blob/main/img/img-.jpg" />
